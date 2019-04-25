@@ -186,7 +186,7 @@ class Header extends Component {
 
 const bannerImg = {
 	backgroundSize: '100%',
-	backgroundImage: 'url(assets/images/banner.png)',
+	backgroundImage: 'url(assets/images/Banner.png)',
 	height: '30rem',
 	color: 'azure',
 	paddingTop: '1rem'
